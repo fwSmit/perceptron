@@ -1,0 +1,4 @@
+// the configured options and settings for Tutorial
+#define PERCEPTRON_VERSION_MAJOR @PERCEPTRON_VERSION_MAJOR@
+#define PERCEPTRON_VERSION_MINOR @PERCEPTRON_VERSION_MINOR@
+

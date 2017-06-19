@@ -1,0 +1,3 @@
+/home/thestroyer/git_repos/perceptron/CMakeFiles/edit_cache.dir
+/home/thestroyer/git_repos/perceptron/CMakeFiles/rebuild_cache.dir
+/home/thestroyer/git_repos/perceptron/CMakeFiles/perceptron.dir

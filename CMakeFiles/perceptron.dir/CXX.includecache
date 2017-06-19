@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thestroyer/git_repos/perceptron/perceptronConfig.h
+
+/home/thestroyer/git_repos/perceptron/source.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+perceptronConfig.h
+/home/thestroyer/git_repos/perceptron/perceptronConfig.h
+
